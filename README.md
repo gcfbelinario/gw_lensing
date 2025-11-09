@@ -1,1 +1,1 @@
-### Gravitational Wave Lensing
+## Gravitational Wave Lensing
